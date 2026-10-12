@@ -1,0 +1,5 @@
+# Keep private client receipts and capabilities out of the guide repository.
+.receipts/
+*receipt*.json
+*.private.json
+.env
